@@ -86,3 +86,8 @@ body{
     margin-inline-start:0px; 
     margin-inline-end: 0px;   
 }
+.footer{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+}
